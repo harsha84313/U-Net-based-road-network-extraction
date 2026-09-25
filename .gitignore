@@ -1,0 +1,19 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+# Model files
+*.pth
+*.h5
+*.keras
+
+# Dataset
+dataset/train/
+dataset/test/
+dataset/valid/
+
+# Generated files
+*.png

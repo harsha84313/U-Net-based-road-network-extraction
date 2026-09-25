@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+opencv-python
+streamlit
+networkx
+scikit-image
+matplotlib
+numpy
+pandas
+albumentations
+scikit-learn
+tqdm
+
+Pillow
+scipy
